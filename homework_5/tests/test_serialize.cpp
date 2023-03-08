@@ -1,0 +1,103 @@
+// @file      test_serialize.cpp
+// @author    Ignacio Vizzo     [ivizzo@uni-bonn.de]
+//
+// Copyright (c) 2020 Ignacio Vizzo, all rights reserved
+#include <catch2/catch_all.hpp>
+#include <filesystem>
+#include <opencv2/core.hpp>
+#include <opencv2/core/mat.hpp>
+#include <opencv2/imgcodecs.hpp>
+#include <opencv2/xfeatures2d.hpp>
+#include <string>
+#include <tuple>
+#include <vector>
+
+#include "homework_5.h"
+#include "utils.hpp"
+
+using std::string;
+using std::vector;
+
+using cv::SiftDescriptorExtractor;
+using cv::SiftFeatureDetector;
+
+namespace {
+std::tuple<cv::Mat, cv::Mat> ComputeSifts(const string& fileName) {
+    const cv::Mat kInput = cv::imread(fileName, cv::IMREAD_GRAYSCALE);
+
+    // detect key points
+    auto detector = SiftFeatureDetector::create();
+    vector<cv::KeyPoint> keypoints;
+    detector->detect(kInput, keypoints);
+
+    // present the keypoints on the image
+    cv::Mat image_with_keypoints;
+    drawKeypoints(kInput, keypoints, image_with_keypoints);
+
+    // extract the SIFT descriptors
+    cv::Mat descriptors;
+    auto extractor = SiftDescriptorExtractor::create();
+    extractor->compute(kInput, keypoints, descriptors);
+
+    return std::make_tuple(descriptors, image_with_keypoints);
+}
+}  // namespace
+namespace fs = std::filesystem;
+SCENARIO("cv::Mat img serialization", "[serialization]") {
+    const std::string lenna_path = "data/lenna.png";
+    const std::string lenna_bin_path = "data/lenna.bin";
+
+    GIVEN("The lenna img") {
+        auto lenna = cv::imread(lenna_path, cv::IMREAD_GRAYSCALE);
+        REQUIRE(!lenna.empty());
+
+        WHEN("lenna is serialized") {
+            ipb::serialization::Serialize(lenna, lenna_bin_path);
+            THEN("The binary file is created") {
+                REQUIRE(fs::exists(lenna_bin_path));
+                fs::remove(lenna_bin_path);
+            }
+        }
+
+        WHEN("lenna is deserialized") {
+            ipb::serialization::Serialize(lenna, lenna_bin_path);
+            auto lenna_bin = ipb::serialization::Deserialize(lenna_bin_path);
+            fs::remove(lenna_bin_path);
+            THEN("No information is being lost") {
+                REQUIRE(!lenna_bin.empty());
+                REQUIRE(lenna.size() == lenna_bin.size());
+                REQUIRE(mat_are_equal<uchar>(lenna, lenna_bin));
+            }
+        }
+    }
+}
+
+SCENARIO("cv::Mat SIFT serialization", "[serialization]") {
+    const std::string lenna_path = "data/lenna.png";
+    const std::string descriptors_bin_path = "data/lenna_sifts.bin";
+
+    GIVEN("SIFTS descriptors are computed on lenna") {
+        const auto [descriptors, image_with_kp] = ComputeSifts(lenna_path);
+        REQUIRE(!descriptors.empty());
+        REQUIRE(!image_with_kp.empty());
+
+        WHEN("SIFTS are serialized") {
+            ipb::serialization::Serialize(descriptors, descriptors_bin_path);
+            THEN("The binary file is created") {
+                REQUIRE(fs::exists(descriptors_bin_path));
+                fs::remove(descriptors_bin_path);
+            }
+        }
+
+        WHEN("SIFTS are deserialized") {
+            ipb::serialization::Serialize(descriptors, descriptors_bin_path);
+            auto descriptors_bin = ipb::serialization::Deserialize(descriptors_bin_path);
+            fs::remove(descriptors_bin_path);
+            THEN("No information is being lost") {
+                REQUIRE(!descriptors_bin.empty());
+                REQUIRE(descriptors.size() == descriptors_bin.size());
+                REQUIRE(mat_are_equal<uchar>(descriptors, descriptors_bin));
+            }
+        }
+    }
+}

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libhomework_6_lib.a CMakeFiles/homework_6_lib.dir/src/image_class.cpp.o CMakeFiles/homework_6_lib.dir/src/io_tools.cpp.o
+/usr/bin/ranlib libhomework_6_lib.a

@@ -1,0 +1,9 @@
+/home/paulie/Documents/MSR7/cpp-homeworks/homework_3/build/CMakeFiles/homework_3_h.dir
+/home/paulie/Documents/MSR7/cpp-homeworks/homework_3/build/CMakeFiles/main.dir
+/home/paulie/Documents/MSR7/cpp-homeworks/homework_3/build/CMakeFiles/test.dir
+/home/paulie/Documents/MSR7/cpp-homeworks/homework_3/build/CMakeFiles/edit_cache.dir
+/home/paulie/Documents/MSR7/cpp-homeworks/homework_3/build/CMakeFiles/rebuild_cache.dir
+/home/paulie/Documents/MSR7/cpp-homeworks/homework_3/build/tests/CMakeFiles/homework_3_ci_test.dir
+/home/paulie/Documents/MSR7/cpp-homeworks/homework_3/build/tests/CMakeFiles/test.dir
+/home/paulie/Documents/MSR7/cpp-homeworks/homework_3/build/tests/CMakeFiles/edit_cache.dir
+/home/paulie/Documents/MSR7/cpp-homeworks/homework_3/build/tests/CMakeFiles/rebuild_cache.dir

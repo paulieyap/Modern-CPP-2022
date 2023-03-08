@@ -1,0 +1,2 @@
+/usr/bin/ar qc libhomework_3_h.a CMakeFiles/homework_3_h.dir/src/html_writer.cpp.o CMakeFiles/homework_3_h.dir/src/image_browser.cpp.o
+/usr/bin/ranlib libhomework_3_h.a

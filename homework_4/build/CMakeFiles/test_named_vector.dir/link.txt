@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/test_named_vector.dir/src/test_named_vector.cpp.o -o test_named_vector 

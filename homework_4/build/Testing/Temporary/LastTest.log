@@ -1,0 +1,484 @@
+Start testing: Dec 08 16:43 CET
+----------------------------------------------------------
+1/24 Testing: ipb::named_vector can be initalized as an std::vector - char
+1/24 Test: ipb::named_vector can be initalized as an std::vector - char
+Command: "/home/paulie/Documents/MSR7/cpp-homeworks/homework_4/build/tests/homework_4_test" "ipb::named_vector can be initalized as an std::vector - char"
+Directory: /home/paulie/Documents/MSR7/cpp-homeworks/homework_4/tests
+"ipb::named_vector can be initalized as an std::vector - char" start time: Dec 08 16:43 CET
+Output:
+----------------------------------------------------------
+Filters: "ipb::named_vector can be initalized as an std::vector - char"
+Randomness seeded to: 3979786616
+===============================================================================
+All tests passed (15 assertions in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ipb::named_vector can be initalized as an std::vector - char" end time: Dec 08 16:43 CET
+"ipb::named_vector can be initalized as an std::vector - char" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/24 Testing: ipb::named_vector can be initalized as an std::vector - int
+2/24 Test: ipb::named_vector can be initalized as an std::vector - int
+Command: "/home/paulie/Documents/MSR7/cpp-homeworks/homework_4/build/tests/homework_4_test" "ipb::named_vector can be initalized as an std::vector - int"
+Directory: /home/paulie/Documents/MSR7/cpp-homeworks/homework_4/tests
+"ipb::named_vector can be initalized as an std::vector - int" start time: Dec 08 16:43 CET
+Output:
+----------------------------------------------------------
+Filters: "ipb::named_vector can be initalized as an std::vector - int"
+Randomness seeded to: 3538934359
+===============================================================================
+All tests passed (15 assertions in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ipb::named_vector can be initalized as an std::vector - int" end time: Dec 08 16:43 CET
+"ipb::named_vector can be initalized as an std::vector - int" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/24 Testing: ipb::named_vector can be initalized as an std::vector - std::string
+3/24 Test: ipb::named_vector can be initalized as an std::vector - std::string
+Command: "/home/paulie/Documents/MSR7/cpp-homeworks/homework_4/build/tests/homework_4_test" "ipb::named_vector can be initalized as an std::vector - std::string"
+Directory: /home/paulie/Documents/MSR7/cpp-homeworks/homework_4/tests
+"ipb::named_vector can be initalized as an std::vector - std::string" start time: Dec 08 16:43 CET
+Output:
+----------------------------------------------------------
+Filters: "ipb::named_vector can be initalized as an std::vector - std::string"
+Randomness seeded to: 1160272749
+===============================================================================
+All tests passed (15 assertions in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ipb::named_vector can be initalized as an std::vector - std::string" end time: Dec 08 16:43 CET
+"ipb::named_vector can be initalized as an std::vector - std::string" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/24 Testing: ipb::named_vector can be initalized as an std::vector - float
+4/24 Test: ipb::named_vector can be initalized as an std::vector - float
+Command: "/home/paulie/Documents/MSR7/cpp-homeworks/homework_4/build/tests/homework_4_test" "ipb::named_vector can be initalized as an std::vector - float"
+Directory: /home/paulie/Documents/MSR7/cpp-homeworks/homework_4/tests
+"ipb::named_vector can be initalized as an std::vector - float" start time: Dec 08 16:43 CET
+Output:
+----------------------------------------------------------
+Filters: "ipb::named_vector can be initalized as an std::vector - float"
+Randomness seeded to: 979366236
+===============================================================================
+All tests passed (15 assertions in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ipb::named_vector can be initalized as an std::vector - float" end time: Dec 08 16:43 CET
+"ipb::named_vector can be initalized as an std::vector - float" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/24 Testing: ipb::named_vector can be initalized as an std::vector - double
+5/24 Test: ipb::named_vector can be initalized as an std::vector - double
+Command: "/home/paulie/Documents/MSR7/cpp-homeworks/homework_4/build/tests/homework_4_test" "ipb::named_vector can be initalized as an std::vector - double"
+Directory: /home/paulie/Documents/MSR7/cpp-homeworks/homework_4/tests
+"ipb::named_vector can be initalized as an std::vector - double" start time: Dec 08 16:43 CET
+Output:
+----------------------------------------------------------
+Filters: "ipb::named_vector can be initalized as an std::vector - double"
+Randomness seeded to: 1476838373
+===============================================================================
+All tests passed (15 assertions in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ipb::named_vector can be initalized as an std::vector - double" end time: Dec 08 16:43 CET
+"ipb::named_vector can be initalized as an std::vector - double" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/24 Testing: ipb::named_vector can be initalized as an std::vector - std::tuple<int, float>
+6/24 Test: ipb::named_vector can be initalized as an std::vector - std::tuple<int, float>
+Command: "/home/paulie/Documents/MSR7/cpp-homeworks/homework_4/build/tests/homework_4_test" "ipb::named_vector can be initalized as an std::vector - std::tuple<int\, float>"
+Directory: /home/paulie/Documents/MSR7/cpp-homeworks/homework_4/tests
+"ipb::named_vector can be initalized as an std::vector - std::tuple<int, float>" start time: Dec 08 16:43 CET
+Output:
+----------------------------------------------------------
+Filters: "ipb::named_vector can be initalized as an std::vector - std::tuple<int\, float>"
+Randomness seeded to: 209779124
+===============================================================================
+All tests passed (15 assertions in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ipb::named_vector can be initalized as an std::vector - std::tuple<int, float>" end time: Dec 08 16:43 CET
+"ipb::named_vector can be initalized as an std::vector - std::tuple<int, float>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/24 Testing: ipb::named_vectors can be sized and resized - char
+7/24 Test: ipb::named_vectors can be sized and resized - char
+Command: "/home/paulie/Documents/MSR7/cpp-homeworks/homework_4/build/tests/homework_4_test" "ipb::named_vectors can be sized and resized - char"
+Directory: /home/paulie/Documents/MSR7/cpp-homeworks/homework_4/tests
+"ipb::named_vectors can be sized and resized - char" start time: Dec 08 16:43 CET
+Output:
+----------------------------------------------------------
+Filters: "ipb::named_vectors can be sized and resized - char"
+Randomness seeded to: 3157519720
+===============================================================================
+All tests passed (16 assertions in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ipb::named_vectors can be sized and resized - char" end time: Dec 08 16:43 CET
+"ipb::named_vectors can be sized and resized - char" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/24 Testing: ipb::named_vectors can be sized and resized - int
+8/24 Test: ipb::named_vectors can be sized and resized - int
+Command: "/home/paulie/Documents/MSR7/cpp-homeworks/homework_4/build/tests/homework_4_test" "ipb::named_vectors can be sized and resized - int"
+Directory: /home/paulie/Documents/MSR7/cpp-homeworks/homework_4/tests
+"ipb::named_vectors can be sized and resized - int" start time: Dec 08 16:43 CET
+Output:
+----------------------------------------------------------
+Filters: "ipb::named_vectors can be sized and resized - int"
+Randomness seeded to: 1899618372
+===============================================================================
+All tests passed (16 assertions in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ipb::named_vectors can be sized and resized - int" end time: Dec 08 16:43 CET
+"ipb::named_vectors can be sized and resized - int" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/24 Testing: ipb::named_vectors can be sized and resized - std::string
+9/24 Test: ipb::named_vectors can be sized and resized - std::string
+Command: "/home/paulie/Documents/MSR7/cpp-homeworks/homework_4/build/tests/homework_4_test" "ipb::named_vectors can be sized and resized - std::string"
+Directory: /home/paulie/Documents/MSR7/cpp-homeworks/homework_4/tests
+"ipb::named_vectors can be sized and resized - std::string" start time: Dec 08 16:43 CET
+Output:
+----------------------------------------------------------
+Filters: "ipb::named_vectors can be sized and resized - std::string"
+Randomness seeded to: 2417844025
+===============================================================================
+All tests passed (16 assertions in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ipb::named_vectors can be sized and resized - std::string" end time: Dec 08 16:43 CET
+"ipb::named_vectors can be sized and resized - std::string" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/24 Testing: ipb::named_vectors can be sized and resized - float
+10/24 Test: ipb::named_vectors can be sized and resized - float
+Command: "/home/paulie/Documents/MSR7/cpp-homeworks/homework_4/build/tests/homework_4_test" "ipb::named_vectors can be sized and resized - float"
+Directory: /home/paulie/Documents/MSR7/cpp-homeworks/homework_4/tests
+"ipb::named_vectors can be sized and resized - float" start time: Dec 08 16:43 CET
+Output:
+----------------------------------------------------------
+Filters: "ipb::named_vectors can be sized and resized - float"
+Randomness seeded to: 820858704
+===============================================================================
+All tests passed (16 assertions in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ipb::named_vectors can be sized and resized - float" end time: Dec 08 16:43 CET
+"ipb::named_vectors can be sized and resized - float" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/24 Testing: ipb::named_vectors can be sized and resized - double
+11/24 Test: ipb::named_vectors can be sized and resized - double
+Command: "/home/paulie/Documents/MSR7/cpp-homeworks/homework_4/build/tests/homework_4_test" "ipb::named_vectors can be sized and resized - double"
+Directory: /home/paulie/Documents/MSR7/cpp-homeworks/homework_4/tests
+"ipb::named_vectors can be sized and resized - double" start time: Dec 08 16:43 CET
+Output:
+----------------------------------------------------------
+Filters: "ipb::named_vectors can be sized and resized - double"
+Randomness seeded to: 3917830728
+===============================================================================
+All tests passed (16 assertions in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ipb::named_vectors can be sized and resized - double" end time: Dec 08 16:43 CET
+"ipb::named_vectors can be sized and resized - double" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/24 Testing: ipb::named_vectors can be sized and resized - std::tuple<int, float>
+12/24 Test: ipb::named_vectors can be sized and resized - std::tuple<int, float>
+Command: "/home/paulie/Documents/MSR7/cpp-homeworks/homework_4/build/tests/homework_4_test" "ipb::named_vectors can be sized and resized - std::tuple<int\, float>"
+Directory: /home/paulie/Documents/MSR7/cpp-homeworks/homework_4/tests
+"ipb::named_vectors can be sized and resized - std::tuple<int, float>" start time: Dec 08 16:43 CET
+Output:
+----------------------------------------------------------
+Filters: "ipb::named_vectors can be sized and resized - std::tuple<int\, float>"
+Randomness seeded to: 2480613354
+===============================================================================
+All tests passed (16 assertions in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ipb::named_vectors can be sized and resized - std::tuple<int, float>" end time: Dec 08 16:43 CET
+"ipb::named_vectors can be sized and resized - std::tuple<int, float>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/24 Testing: Scenario: ipb::named_vector size is consistent
+13/24 Test: Scenario: ipb::named_vector size is consistent
+Command: "/home/paulie/Documents/MSR7/cpp-homeworks/homework_4/build/tests/homework_4_test" "Scenario: ipb::named_vector size is consistent"
+Directory: /home/paulie/Documents/MSR7/cpp-homeworks/homework_4/tests
+"Scenario: ipb::named_vector size is consistent" start time: Dec 08 16:43 CET
+Output:
+----------------------------------------------------------
+Filters: "Scenario: ipb::named_vector size is consistent"
+Randomness seeded to: 1539964515
+===============================================================================
+All tests passed (14 assertions in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Scenario: ipb::named_vector size is consistent" end time: Dec 08 16:43 CET
+"Scenario: ipb::named_vector size is consistent" time elapsed: 00:00:00
+----------------------------------------------------------
+
+14/24 Testing: ipb::accumulate
+14/24 Test: ipb::accumulate
+Command: "/home/paulie/Documents/MSR7/cpp-homeworks/homework_4/build/tests/homework_4_test" "ipb::accumulate"
+Directory: /home/paulie/Documents/MSR7/cpp-homeworks/homework_4/tests
+"ipb::accumulate" start time: Dec 08 16:43 CET
+Output:
+----------------------------------------------------------
+Filters: "ipb::accumulate"
+Randomness seeded to: 248524249
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ipb::accumulate" end time: Dec 08 16:43 CET
+"ipb::accumulate" time elapsed: 00:00:00
+----------------------------------------------------------
+
+15/24 Testing: ipb::count
+15/24 Test: ipb::count
+Command: "/home/paulie/Documents/MSR7/cpp-homeworks/homework_4/build/tests/homework_4_test" "ipb::count"
+Directory: /home/paulie/Documents/MSR7/cpp-homeworks/homework_4/tests
+"ipb::count" start time: Dec 08 16:43 CET
+Output:
+----------------------------------------------------------
+Filters: "ipb::count"
+Randomness seeded to: 1637909545
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ipb::count" end time: Dec 08 16:43 CET
+"ipb::count" time elapsed: 00:00:00
+----------------------------------------------------------
+
+16/24 Testing: ipb::all_even
+16/24 Test: ipb::all_even
+Command: "/home/paulie/Documents/MSR7/cpp-homeworks/homework_4/build/tests/homework_4_test" "ipb::all_even"
+Directory: /home/paulie/Documents/MSR7/cpp-homeworks/homework_4/tests
+"ipb::all_even" start time: Dec 08 16:43 CET
+Output:
+----------------------------------------------------------
+Filters: "ipb::all_even"
+Randomness seeded to: 884972669
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ipb::all_even" end time: Dec 08 16:43 CET
+"ipb::all_even" time elapsed: 00:00:00
+----------------------------------------------------------
+
+17/24 Testing: ipb::clamp
+17/24 Test: ipb::clamp
+Command: "/home/paulie/Documents/MSR7/cpp-homeworks/homework_4/build/tests/homework_4_test" "ipb::clamp"
+Directory: /home/paulie/Documents/MSR7/cpp-homeworks/homework_4/tests
+"ipb::clamp" start time: Dec 08 16:43 CET
+Output:
+----------------------------------------------------------
+Filters: "ipb::clamp"
+Randomness seeded to: 751164874
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ipb::clamp" end time: Dec 08 16:43 CET
+"ipb::clamp" time elapsed: 00:00:00
+----------------------------------------------------------
+
+18/24 Testing: ipb::fill
+18/24 Test: ipb::fill
+Command: "/home/paulie/Documents/MSR7/cpp-homeworks/homework_4/build/tests/homework_4_test" "ipb::fill"
+Directory: /home/paulie/Documents/MSR7/cpp-homeworks/homework_4/tests
+"ipb::fill" start time: Dec 08 16:43 CET
+Output:
+----------------------------------------------------------
+Filters: "ipb::fill"
+Randomness seeded to: 735699861
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ipb::fill" end time: Dec 08 16:43 CET
+"ipb::fill" time elapsed: 00:00:00
+----------------------------------------------------------
+
+19/24 Testing: ipb::find
+19/24 Test: ipb::find
+Command: "/home/paulie/Documents/MSR7/cpp-homeworks/homework_4/build/tests/homework_4_test" "ipb::find"
+Directory: /home/paulie/Documents/MSR7/cpp-homeworks/homework_4/tests
+"ipb::find" start time: Dec 08 16:43 CET
+Output:
+----------------------------------------------------------
+Filters: "ipb::find"
+Randomness seeded to: 1058523216
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ipb::find" end time: Dec 08 16:43 CET
+"ipb::find" time elapsed: 00:00:00
+----------------------------------------------------------
+
+20/24 Testing: ipb::print
+20/24 Test: ipb::print
+Command: "/home/paulie/Documents/MSR7/cpp-homeworks/homework_4/build/tests/homework_4_test" "ipb::print"
+Directory: /home/paulie/Documents/MSR7/cpp-homeworks/homework_4/tests
+"ipb::print" start time: Dec 08 16:43 CET
+Output:
+----------------------------------------------------------
+Filters: "ipb::print"
+Randomness seeded to: 1996926483
+1 2 3 4 ===============================================================================
+test cases: 1 | 1 passed
+assertions: - none -
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ipb::print" end time: Dec 08 16:43 CET
+"ipb::print" time elapsed: 00:00:00
+----------------------------------------------------------
+
+21/24 Testing: ipb::toupper
+21/24 Test: ipb::toupper
+Command: "/home/paulie/Documents/MSR7/cpp-homeworks/homework_4/build/tests/homework_4_test" "ipb::toupper"
+Directory: /home/paulie/Documents/MSR7/cpp-homeworks/homework_4/tests
+"ipb::toupper" start time: Dec 08 16:43 CET
+Output:
+----------------------------------------------------------
+Filters: "ipb::toupper"
+Randomness seeded to: 933803841
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ipb::toupper" end time: Dec 08 16:43 CET
+"ipb::toupper" time elapsed: 00:00:00
+----------------------------------------------------------
+
+22/24 Testing: ipb::sort
+22/24 Test: ipb::sort
+Command: "/home/paulie/Documents/MSR7/cpp-homeworks/homework_4/build/tests/homework_4_test" "ipb::sort"
+Directory: /home/paulie/Documents/MSR7/cpp-homeworks/homework_4/tests
+"ipb::sort" start time: Dec 08 16:43 CET
+Output:
+----------------------------------------------------------
+Filters: "ipb::sort"
+Randomness seeded to: 1669831030
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ipb::sort" end time: Dec 08 16:43 CET
+"ipb::sort" time elapsed: 00:00:00
+----------------------------------------------------------
+
+23/24 Testing: ipb::rotate
+23/24 Test: ipb::rotate
+Command: "/home/paulie/Documents/MSR7/cpp-homeworks/homework_4/build/tests/homework_4_test" "ipb::rotate"
+Directory: /home/paulie/Documents/MSR7/cpp-homeworks/homework_4/tests
+"ipb::rotate" start time: Dec 08 16:43 CET
+Output:
+----------------------------------------------------------
+Filters: "ipb::rotate"
+Randomness seeded to: 823048386
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ipb::rotate" end time: Dec 08 16:43 CET
+"ipb::rotate" time elapsed: 00:00:00
+----------------------------------------------------------
+
+24/24 Testing: ipb::reverse
+24/24 Test: ipb::reverse
+Command: "/home/paulie/Documents/MSR7/cpp-homeworks/homework_4/build/tests/homework_4_test" "ipb::reverse"
+Directory: /home/paulie/Documents/MSR7/cpp-homeworks/homework_4/tests
+"ipb::reverse" start time: Dec 08 16:43 CET
+Output:
+----------------------------------------------------------
+Filters: "ipb::reverse"
+Randomness seeded to: 556176540
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ipb::reverse" end time: Dec 08 16:43 CET
+"ipb::reverse" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Dec 08 16:43 CET

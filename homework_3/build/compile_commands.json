@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/paulie/Documents/MSR7/cpp-homeworks/homework_3/build",
+  "command": "/usr/bin/c++    -o CMakeFiles/homework_3_h.dir/src/html_writer.cpp.o -c /home/paulie/Documents/MSR7/cpp-homeworks/homework_3/src/html_writer.cpp",
+  "file": "/home/paulie/Documents/MSR7/cpp-homeworks/homework_3/src/html_writer.cpp"
+},
+{
+  "directory": "/home/paulie/Documents/MSR7/cpp-homeworks/homework_3/build",
+  "command": "/usr/bin/c++    -o CMakeFiles/homework_3_h.dir/src/image_browser.cpp.o -c /home/paulie/Documents/MSR7/cpp-homeworks/homework_3/src/image_browser.cpp",
+  "file": "/home/paulie/Documents/MSR7/cpp-homeworks/homework_3/src/image_browser.cpp"
+},
+{
+  "directory": "/home/paulie/Documents/MSR7/cpp-homeworks/homework_3/build",
+  "command": "/usr/bin/c++    -o CMakeFiles/main.dir/src/homework_3.cpp.o -c /home/paulie/Documents/MSR7/cpp-homeworks/homework_3/src/homework_3.cpp",
+  "file": "/home/paulie/Documents/MSR7/cpp-homeworks/homework_3/src/homework_3.cpp"
+},
+{
+  "directory": "/home/paulie/Documents/MSR7/cpp-homeworks/homework_3/build/tests",
+  "command": "/usr/bin/c++  -I/home/paulie/Documents/MSR7/cpp-homeworks/homework_3/api  -o CMakeFiles/homework_3_ci_test.dir/test_image_browser.cpp.o -c /home/paulie/Documents/MSR7/cpp-homeworks/homework_3/tests/test_image_browser.cpp",
+  "file": "/home/paulie/Documents/MSR7/cpp-homeworks/homework_3/tests/test_image_browser.cpp"
+},
+{
+  "directory": "/home/paulie/Documents/MSR7/cpp-homeworks/homework_3/build/tests",
+  "command": "/usr/bin/c++  -I/home/paulie/Documents/MSR7/cpp-homeworks/homework_3/api  -o CMakeFiles/homework_3_ci_test.dir/test_html_writer.cpp.o -c /home/paulie/Documents/MSR7/cpp-homeworks/homework_3/tests/test_html_writer.cpp",
+  "file": "/home/paulie/Documents/MSR7/cpp-homeworks/homework_3/tests/test_html_writer.cpp"
+}
+]

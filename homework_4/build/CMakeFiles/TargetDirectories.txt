@@ -1,0 +1,8 @@
+/home/paulie/Documents/MSR7/cpp-homeworks/homework_4/build/CMakeFiles/test_named_vector.dir
+/home/paulie/Documents/MSR7/cpp-homeworks/homework_4/build/CMakeFiles/test.dir
+/home/paulie/Documents/MSR7/cpp-homeworks/homework_4/build/CMakeFiles/edit_cache.dir
+/home/paulie/Documents/MSR7/cpp-homeworks/homework_4/build/CMakeFiles/rebuild_cache.dir
+/home/paulie/Documents/MSR7/cpp-homeworks/homework_4/build/tests/CMakeFiles/homework_4_test.dir
+/home/paulie/Documents/MSR7/cpp-homeworks/homework_4/build/tests/CMakeFiles/test.dir
+/home/paulie/Documents/MSR7/cpp-homeworks/homework_4/build/tests/CMakeFiles/edit_cache.dir
+/home/paulie/Documents/MSR7/cpp-homeworks/homework_4/build/tests/CMakeFiles/rebuild_cache.dir

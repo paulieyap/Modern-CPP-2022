@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/home/paulieyap/Documents/MSR7/cpp-homeworks/homework_6/build",
+  "command": "/usr/bin/c++   -Wall -Wextra -fPIC -std=gnu++17 -o CMakeFiles/homework_6_lib.dir/src/image_class.cpp.o -c /home/paulieyap/Documents/MSR7/cpp-homeworks/homework_6/src/image_class.cpp",
+  "file": "/home/paulieyap/Documents/MSR7/cpp-homeworks/homework_6/src/image_class.cpp"
+},
+{
+  "directory": "/home/paulieyap/Documents/MSR7/cpp-homeworks/homework_6/build",
+  "command": "/usr/bin/c++   -Wall -Wextra -fPIC -std=gnu++17 -o CMakeFiles/homework_6_lib.dir/src/io_tools.cpp.o -c /home/paulieyap/Documents/MSR7/cpp-homeworks/homework_6/src/io_tools.cpp",
+  "file": "/home/paulieyap/Documents/MSR7/cpp-homeworks/homework_6/src/io_tools.cpp"
+},
+{
+  "directory": "/home/paulieyap/Documents/MSR7/cpp-homeworks/homework_6/build",
+  "command": "/usr/bin/c++   -Wall -Wextra -fPIC -std=gnu++17 -o CMakeFiles/main.dir/src/main.cpp.o -c /home/paulieyap/Documents/MSR7/cpp-homeworks/homework_6/src/main.cpp",
+  "file": "/home/paulieyap/Documents/MSR7/cpp-homeworks/homework_6/src/main.cpp"
+},
+{
+  "directory": "/home/paulieyap/Documents/MSR7/cpp-homeworks/homework_6/build/tests",
+  "command": "/usr/bin/c++  -I/home/paulieyap/Documents/MSR7/cpp-homeworks/homework_6/include -Wall -Wextra -fPIC -DGTEST_HAS_PTHREAD=1 -std=gnu++17 -o CMakeFiles/homework_6_test.dir/test_init.cpp.o -c /home/paulieyap/Documents/MSR7/cpp-homeworks/homework_6/tests/test_init.cpp",
+  "file": "/home/paulieyap/Documents/MSR7/cpp-homeworks/homework_6/tests/test_init.cpp"
+},
+{
+  "directory": "/home/paulieyap/Documents/MSR7/cpp-homeworks/homework_6/build/tests",
+  "command": "/usr/bin/c++  -I/home/paulieyap/Documents/MSR7/cpp-homeworks/homework_6/include -Wall -Wextra -fPIC -DGTEST_HAS_PTHREAD=1 -std=gnu++17 -o CMakeFiles/homework_6_test.dir/test_histogram.cpp.o -c /home/paulieyap/Documents/MSR7/cpp-homeworks/homework_6/tests/test_histogram.cpp",
+  "file": "/home/paulieyap/Documents/MSR7/cpp-homeworks/homework_6/tests/test_histogram.cpp"
+},
+{
+  "directory": "/home/paulieyap/Documents/MSR7/cpp-homeworks/homework_6/build/tests",
+  "command": "/usr/bin/c++  -I/home/paulieyap/Documents/MSR7/cpp-homeworks/homework_6/include -Wall -Wextra -fPIC -DGTEST_HAS_PTHREAD=1 -std=gnu++17 -o CMakeFiles/homework_6_test.dir/test_from_file.cpp.o -c /home/paulieyap/Documents/MSR7/cpp-homeworks/homework_6/tests/test_from_file.cpp",
+  "file": "/home/paulieyap/Documents/MSR7/cpp-homeworks/homework_6/tests/test_from_file.cpp"
+},
+{
+  "directory": "/home/paulieyap/Documents/MSR7/cpp-homeworks/homework_6/build/tests",
+  "command": "/usr/bin/c++  -I/home/paulieyap/Documents/MSR7/cpp-homeworks/homework_6/include -Wall -Wextra -fPIC -DGTEST_HAS_PTHREAD=1 -std=gnu++17 -o CMakeFiles/homework_6_test.dir/test_resize.cpp.o -c /home/paulieyap/Documents/MSR7/cpp-homeworks/homework_6/tests/test_resize.cpp",
+  "file": "/home/paulieyap/Documents/MSR7/cpp-homeworks/homework_6/tests/test_resize.cpp"
+}
+]

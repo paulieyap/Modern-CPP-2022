@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/paulieyap/Documents/MSR7/cpp-homeworks/homework_5/build",
+  "command": "/usr/bin/c++  -isystem /usr/local/include/opencv4 -std=gnu++17 -o CMakeFiles/homework_5_lib.dir/src/convert_dataset.cpp.o -c /home/paulieyap/Documents/MSR7/cpp-homeworks/homework_5/src/convert_dataset.cpp",
+  "file": "/home/paulieyap/Documents/MSR7/cpp-homeworks/homework_5/src/convert_dataset.cpp"
+},
+{
+  "directory": "/home/paulieyap/Documents/MSR7/cpp-homeworks/homework_5/build",
+  "command": "/usr/bin/c++  -isystem /usr/local/include/opencv4 -std=gnu++17 -o CMakeFiles/homework_5_lib.dir/src/serialize.cpp.o -c /home/paulieyap/Documents/MSR7/cpp-homeworks/homework_5/src/serialize.cpp",
+  "file": "/home/paulieyap/Documents/MSR7/cpp-homeworks/homework_5/src/serialize.cpp"
+},
+{
+  "directory": "/home/paulieyap/Documents/MSR7/cpp-homeworks/homework_5/build",
+  "command": "/usr/bin/c++  -isystem /usr/local/include/opencv4 -std=gnu++17 -o CMakeFiles/main.dir/src/main.cpp.o -c /home/paulieyap/Documents/MSR7/cpp-homeworks/homework_5/src/main.cpp",
+  "file": "/home/paulieyap/Documents/MSR7/cpp-homeworks/homework_5/src/main.cpp"
+},
+{
+  "directory": "/home/paulieyap/Documents/MSR7/cpp-homeworks/homework_5/build/tests",
+  "command": "/usr/bin/c++  -I/home/paulieyap/Documents/MSR7/cpp-homeworks/homework_5/include -isystem /usr/local/include/opencv4 -std=gnu++17 -o CMakeFiles/homework_5_ci_test.dir/test_serialize.cpp.o -c /home/paulieyap/Documents/MSR7/cpp-homeworks/homework_5/tests/test_serialize.cpp",
+  "file": "/home/paulieyap/Documents/MSR7/cpp-homeworks/homework_5/tests/test_serialize.cpp"
+},
+{
+  "directory": "/home/paulieyap/Documents/MSR7/cpp-homeworks/homework_5/build/tests",
+  "command": "/usr/bin/c++  -I/home/paulieyap/Documents/MSR7/cpp-homeworks/homework_5/include -isystem /usr/local/include/opencv4 -std=gnu++17 -o CMakeFiles/homework_5_ci_test.dir/test_convert_dataset.cpp.o -c /home/paulieyap/Documents/MSR7/cpp-homeworks/homework_5/tests/test_convert_dataset.cpp",
+  "file": "/home/paulieyap/Documents/MSR7/cpp-homeworks/homework_5/tests/test_convert_dataset.cpp"
+}
+]

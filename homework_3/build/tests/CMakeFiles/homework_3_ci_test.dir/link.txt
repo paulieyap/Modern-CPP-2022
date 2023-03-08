@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/homework_3_ci_test.dir/test_image_browser.cpp.o CMakeFiles/homework_3_ci_test.dir/test_html_writer.cpp.o -o homework_3_ci_test  ../libhomework_3_h.a /usr/local/lib/libgtest_main.a /usr/local/lib/libgtest.a 

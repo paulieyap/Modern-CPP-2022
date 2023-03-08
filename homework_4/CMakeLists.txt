@@ -1,0 +1,10 @@
+cmake_minimum_required(VERSION 3.1)
+project(homework_4)
+set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
+
+enable_testing()
+add_subdirectory(tests) 
+add_library(homework_4 INTERFACE)
+target_include_directories(homework_4 INTERFACE $<BUILD_INTERFACE:${CMAKE_CURRENT_SOURCE_DIR}/include>)
+target_compile_features (homework_4 INTERFACE cxx_std_17 )

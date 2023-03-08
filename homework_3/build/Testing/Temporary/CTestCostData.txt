@@ -1,0 +1,15 @@
+homework_3_ci_test_NOT_BUILT 0 0
+TestImageBrowser.AddFirstFullRow 4 0.000487716
+TestImageBrowser.AddFullRow 4 0.000386447
+TestImageBrowser.CreateImageBrowser 17 0.000113495
+TestHTMLWriter.OpenCloseDocument 17 0.000123848
+TestHTMLWriter.OpenCloseBody 17 0.000142356
+TestHTMLWriter.OpenCloseRow 17 0.000115143
+TestHTMLWriter.AddTitle 17 0.000117024
+TestHTMLWriter.AddCSSStyle 17 0.000144747
+TestHTMLWriter.AddImageSimple 3 0.000576256
+TestHTMLWriter.AddImageFirstImage 3 0.000736285
+TestHTMLWriter.AddImageTestScoreFormat 4 0.000488763
+TestHTMLWriter.AddImageTestScoreBounds 4 0.000418591
+TestHTMLWriter.AddImageTestExtensionTypes 4 0.000373177
+---

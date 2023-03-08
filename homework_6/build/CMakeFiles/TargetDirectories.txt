@@ -1,0 +1,9 @@
+/home/paulieyap/Documents/MSR7/cpp-homeworks/homework_6/build/CMakeFiles/homework_6_lib.dir
+/home/paulieyap/Documents/MSR7/cpp-homeworks/homework_6/build/CMakeFiles/main.dir
+/home/paulieyap/Documents/MSR7/cpp-homeworks/homework_6/build/CMakeFiles/test.dir
+/home/paulieyap/Documents/MSR7/cpp-homeworks/homework_6/build/CMakeFiles/edit_cache.dir
+/home/paulieyap/Documents/MSR7/cpp-homeworks/homework_6/build/CMakeFiles/rebuild_cache.dir
+/home/paulieyap/Documents/MSR7/cpp-homeworks/homework_6/build/tests/CMakeFiles/homework_6_test.dir
+/home/paulieyap/Documents/MSR7/cpp-homeworks/homework_6/build/tests/CMakeFiles/test.dir
+/home/paulieyap/Documents/MSR7/cpp-homeworks/homework_6/build/tests/CMakeFiles/edit_cache.dir
+/home/paulieyap/Documents/MSR7/cpp-homeworks/homework_6/build/tests/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,5 @@
+if(EXISTS "/home/paulie/Documents/MSR7/cpp-homeworks/homework_3/build/tests/test_1_test[1]_tests.cmake")
+  include("/home/paulie/Documents/MSR7/cpp-homeworks/homework_3/build/tests/test_1_test[1]_tests.cmake")
+else()
+  add_test(test_1_test_NOT_BUILT test_1_test_NOT_BUILT)
+endif()

@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/homework_4_test.dir/test_named_vector.cpp.o CMakeFiles/homework_4_test.dir/test_ipb_algorithm.cpp.o -o homework_4_test  /usr/local/lib/libCatch2Main.a /usr/local/lib/libCatch2.a 

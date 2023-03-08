@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/test_1_test.dir/test_image_browser.cpp.o CMakeFiles/test_1_test.dir/test_html_writer.cpp.o -o ../../bin/test_1_test  -lhomework_3 -lGTest::Main 

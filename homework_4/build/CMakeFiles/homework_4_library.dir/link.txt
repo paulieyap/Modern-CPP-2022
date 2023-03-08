@@ -1,0 +1,2 @@
+/usr/bin/ar qc libhomework_4_library.a CMakeFiles/homework_4_library.dir/src/ipb_algorithm.cpp.o
+/usr/bin/ranlib libhomework_4_library.a

@@ -1,0 +1,354 @@
+Start testing: Nov 30 18:10 CET
+----------------------------------------------------------
+1/13 Testing: TestImageBrowser.AddFirstFullRow
+1/13 Test: TestImageBrowser.AddFirstFullRow
+Command: "/home/paulie/Documents/MSR7/cpp-homeworks/homework_3/build/tests/homework_3_ci_test" "--gtest_filter=TestImageBrowser.AddFirstFullRow" "--gtest_also_run_disabled_tests" "--gtest_output=xml:/home/paulie/Documents/MSR7/cpp-homeworks/homework_3/build/TestImageBrowser.AddFirstFullRow.xml"
+Directory: /home/paulie/Documents/MSR7/cpp-homeworks/homework_3/build/tests
+"TestImageBrowser.AddFirstFullRow" start time: Nov 30 18:10 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/paulie/googletest/googletest/src/gtest_main.cc
+Note: Google Test filter = TestImageBrowser.AddFirstFullRow
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TestImageBrowser
+[ RUN      ] TestImageBrowser.AddFirstFullRow
+[       OK ] TestImageBrowser.AddFirstFullRow (0 ms)
+[----------] 1 test from TestImageBrowser (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"TestImageBrowser.AddFirstFullRow" end time: Nov 30 18:10 CET
+"TestImageBrowser.AddFirstFullRow" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/13 Testing: TestImageBrowser.AddFullRow
+2/13 Test: TestImageBrowser.AddFullRow
+Command: "/home/paulie/Documents/MSR7/cpp-homeworks/homework_3/build/tests/homework_3_ci_test" "--gtest_filter=TestImageBrowser.AddFullRow" "--gtest_also_run_disabled_tests" "--gtest_output=xml:/home/paulie/Documents/MSR7/cpp-homeworks/homework_3/build/TestImageBrowser.AddFullRow.xml"
+Directory: /home/paulie/Documents/MSR7/cpp-homeworks/homework_3/build/tests
+"TestImageBrowser.AddFullRow" start time: Nov 30 18:10 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/paulie/googletest/googletest/src/gtest_main.cc
+Note: Google Test filter = TestImageBrowser.AddFullRow
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TestImageBrowser
+[ RUN      ] TestImageBrowser.AddFullRow
+[       OK ] TestImageBrowser.AddFullRow (0 ms)
+[----------] 1 test from TestImageBrowser (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"TestImageBrowser.AddFullRow" end time: Nov 30 18:10 CET
+"TestImageBrowser.AddFullRow" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/13 Testing: TestImageBrowser.CreateImageBrowser
+3/13 Test: TestImageBrowser.CreateImageBrowser
+Command: "/home/paulie/Documents/MSR7/cpp-homeworks/homework_3/build/tests/homework_3_ci_test" "--gtest_filter=TestImageBrowser.CreateImageBrowser" "--gtest_also_run_disabled_tests" "--gtest_output=xml:/home/paulie/Documents/MSR7/cpp-homeworks/homework_3/build/TestImageBrowser.CreateImageBrowser.xml"
+Directory: /home/paulie/Documents/MSR7/cpp-homeworks/homework_3/build/tests
+"TestImageBrowser.CreateImageBrowser" start time: Nov 30 18:10 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/paulie/googletest/googletest/src/gtest_main.cc
+Note: Google Test filter = TestImageBrowser.CreateImageBrowser
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TestImageBrowser
+[ RUN      ] TestImageBrowser.CreateImageBrowser
+[       OK ] TestImageBrowser.CreateImageBrowser (0 ms)
+[----------] 1 test from TestImageBrowser (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"TestImageBrowser.CreateImageBrowser" end time: Nov 30 18:10 CET
+"TestImageBrowser.CreateImageBrowser" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/13 Testing: TestHTMLWriter.OpenCloseDocument
+4/13 Test: TestHTMLWriter.OpenCloseDocument
+Command: "/home/paulie/Documents/MSR7/cpp-homeworks/homework_3/build/tests/homework_3_ci_test" "--gtest_filter=TestHTMLWriter.OpenCloseDocument" "--gtest_also_run_disabled_tests" "--gtest_output=xml:/home/paulie/Documents/MSR7/cpp-homeworks/homework_3/build/TestHTMLWriter.OpenCloseDocument.xml"
+Directory: /home/paulie/Documents/MSR7/cpp-homeworks/homework_3/build/tests
+"TestHTMLWriter.OpenCloseDocument" start time: Nov 30 18:10 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/paulie/googletest/googletest/src/gtest_main.cc
+Note: Google Test filter = TestHTMLWriter.OpenCloseDocument
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TestHTMLWriter
+[ RUN      ] TestHTMLWriter.OpenCloseDocument
+[       OK ] TestHTMLWriter.OpenCloseDocument (0 ms)
+[----------] 1 test from TestHTMLWriter (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"TestHTMLWriter.OpenCloseDocument" end time: Nov 30 18:10 CET
+"TestHTMLWriter.OpenCloseDocument" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/13 Testing: TestHTMLWriter.OpenCloseBody
+5/13 Test: TestHTMLWriter.OpenCloseBody
+Command: "/home/paulie/Documents/MSR7/cpp-homeworks/homework_3/build/tests/homework_3_ci_test" "--gtest_filter=TestHTMLWriter.OpenCloseBody" "--gtest_also_run_disabled_tests" "--gtest_output=xml:/home/paulie/Documents/MSR7/cpp-homeworks/homework_3/build/TestHTMLWriter.OpenCloseBody.xml"
+Directory: /home/paulie/Documents/MSR7/cpp-homeworks/homework_3/build/tests
+"TestHTMLWriter.OpenCloseBody" start time: Nov 30 18:10 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/paulie/googletest/googletest/src/gtest_main.cc
+Note: Google Test filter = TestHTMLWriter.OpenCloseBody
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TestHTMLWriter
+[ RUN      ] TestHTMLWriter.OpenCloseBody
+[       OK ] TestHTMLWriter.OpenCloseBody (0 ms)
+[----------] 1 test from TestHTMLWriter (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"TestHTMLWriter.OpenCloseBody" end time: Nov 30 18:10 CET
+"TestHTMLWriter.OpenCloseBody" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/13 Testing: TestHTMLWriter.OpenCloseRow
+6/13 Test: TestHTMLWriter.OpenCloseRow
+Command: "/home/paulie/Documents/MSR7/cpp-homeworks/homework_3/build/tests/homework_3_ci_test" "--gtest_filter=TestHTMLWriter.OpenCloseRow" "--gtest_also_run_disabled_tests" "--gtest_output=xml:/home/paulie/Documents/MSR7/cpp-homeworks/homework_3/build/TestHTMLWriter.OpenCloseRow.xml"
+Directory: /home/paulie/Documents/MSR7/cpp-homeworks/homework_3/build/tests
+"TestHTMLWriter.OpenCloseRow" start time: Nov 30 18:10 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/paulie/googletest/googletest/src/gtest_main.cc
+Note: Google Test filter = TestHTMLWriter.OpenCloseRow
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TestHTMLWriter
+[ RUN      ] TestHTMLWriter.OpenCloseRow
+[       OK ] TestHTMLWriter.OpenCloseRow (0 ms)
+[----------] 1 test from TestHTMLWriter (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"TestHTMLWriter.OpenCloseRow" end time: Nov 30 18:10 CET
+"TestHTMLWriter.OpenCloseRow" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/13 Testing: TestHTMLWriter.AddTitle
+7/13 Test: TestHTMLWriter.AddTitle
+Command: "/home/paulie/Documents/MSR7/cpp-homeworks/homework_3/build/tests/homework_3_ci_test" "--gtest_filter=TestHTMLWriter.AddTitle" "--gtest_also_run_disabled_tests" "--gtest_output=xml:/home/paulie/Documents/MSR7/cpp-homeworks/homework_3/build/TestHTMLWriter.AddTitle.xml"
+Directory: /home/paulie/Documents/MSR7/cpp-homeworks/homework_3/build/tests
+"TestHTMLWriter.AddTitle" start time: Nov 30 18:10 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/paulie/googletest/googletest/src/gtest_main.cc
+Note: Google Test filter = TestHTMLWriter.AddTitle
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TestHTMLWriter
+[ RUN      ] TestHTMLWriter.AddTitle
+[       OK ] TestHTMLWriter.AddTitle (0 ms)
+[----------] 1 test from TestHTMLWriter (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"TestHTMLWriter.AddTitle" end time: Nov 30 18:10 CET
+"TestHTMLWriter.AddTitle" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/13 Testing: TestHTMLWriter.AddCSSStyle
+8/13 Test: TestHTMLWriter.AddCSSStyle
+Command: "/home/paulie/Documents/MSR7/cpp-homeworks/homework_3/build/tests/homework_3_ci_test" "--gtest_filter=TestHTMLWriter.AddCSSStyle" "--gtest_also_run_disabled_tests" "--gtest_output=xml:/home/paulie/Documents/MSR7/cpp-homeworks/homework_3/build/TestHTMLWriter.AddCSSStyle.xml"
+Directory: /home/paulie/Documents/MSR7/cpp-homeworks/homework_3/build/tests
+"TestHTMLWriter.AddCSSStyle" start time: Nov 30 18:10 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/paulie/googletest/googletest/src/gtest_main.cc
+Note: Google Test filter = TestHTMLWriter.AddCSSStyle
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TestHTMLWriter
+[ RUN      ] TestHTMLWriter.AddCSSStyle
+[       OK ] TestHTMLWriter.AddCSSStyle (0 ms)
+[----------] 1 test from TestHTMLWriter (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"TestHTMLWriter.AddCSSStyle" end time: Nov 30 18:10 CET
+"TestHTMLWriter.AddCSSStyle" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/13 Testing: TestHTMLWriter.AddImageSimple
+9/13 Test: TestHTMLWriter.AddImageSimple
+Command: "/home/paulie/Documents/MSR7/cpp-homeworks/homework_3/build/tests/homework_3_ci_test" "--gtest_filter=TestHTMLWriter.AddImageSimple" "--gtest_also_run_disabled_tests" "--gtest_output=xml:/home/paulie/Documents/MSR7/cpp-homeworks/homework_3/build/TestHTMLWriter.AddImageSimple.xml"
+Directory: /home/paulie/Documents/MSR7/cpp-homeworks/homework_3/build/tests
+"TestHTMLWriter.AddImageSimple" start time: Nov 30 18:10 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/paulie/googletest/googletest/src/gtest_main.cc
+Note: Google Test filter = TestHTMLWriter.AddImageSimple
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TestHTMLWriter
+[ RUN      ] TestHTMLWriter.AddImageSimple
+[       OK ] TestHTMLWriter.AddImageSimple (0 ms)
+[----------] 1 test from TestHTMLWriter (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"TestHTMLWriter.AddImageSimple" end time: Nov 30 18:10 CET
+"TestHTMLWriter.AddImageSimple" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/13 Testing: TestHTMLWriter.AddImageFirstImage
+10/13 Test: TestHTMLWriter.AddImageFirstImage
+Command: "/home/paulie/Documents/MSR7/cpp-homeworks/homework_3/build/tests/homework_3_ci_test" "--gtest_filter=TestHTMLWriter.AddImageFirstImage" "--gtest_also_run_disabled_tests" "--gtest_output=xml:/home/paulie/Documents/MSR7/cpp-homeworks/homework_3/build/TestHTMLWriter.AddImageFirstImage.xml"
+Directory: /home/paulie/Documents/MSR7/cpp-homeworks/homework_3/build/tests
+"TestHTMLWriter.AddImageFirstImage" start time: Nov 30 18:10 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/paulie/googletest/googletest/src/gtest_main.cc
+Note: Google Test filter = TestHTMLWriter.AddImageFirstImage
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TestHTMLWriter
+[ RUN      ] TestHTMLWriter.AddImageFirstImage
+[       OK ] TestHTMLWriter.AddImageFirstImage (0 ms)
+[----------] 1 test from TestHTMLWriter (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"TestHTMLWriter.AddImageFirstImage" end time: Nov 30 18:10 CET
+"TestHTMLWriter.AddImageFirstImage" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/13 Testing: TestHTMLWriter.AddImageTestScoreFormat
+11/13 Test: TestHTMLWriter.AddImageTestScoreFormat
+Command: "/home/paulie/Documents/MSR7/cpp-homeworks/homework_3/build/tests/homework_3_ci_test" "--gtest_filter=TestHTMLWriter.AddImageTestScoreFormat" "--gtest_also_run_disabled_tests" "--gtest_output=xml:/home/paulie/Documents/MSR7/cpp-homeworks/homework_3/build/TestHTMLWriter.AddImageTestScoreFormat.xml"
+Directory: /home/paulie/Documents/MSR7/cpp-homeworks/homework_3/build/tests
+"TestHTMLWriter.AddImageTestScoreFormat" start time: Nov 30 18:10 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/paulie/googletest/googletest/src/gtest_main.cc
+Note: Google Test filter = TestHTMLWriter.AddImageTestScoreFormat
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TestHTMLWriter
+[ RUN      ] TestHTMLWriter.AddImageTestScoreFormat
+[       OK ] TestHTMLWriter.AddImageTestScoreFormat (0 ms)
+[----------] 1 test from TestHTMLWriter (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"TestHTMLWriter.AddImageTestScoreFormat" end time: Nov 30 18:10 CET
+"TestHTMLWriter.AddImageTestScoreFormat" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/13 Testing: TestHTMLWriter.AddImageTestScoreBounds
+12/13 Test: TestHTMLWriter.AddImageTestScoreBounds
+Command: "/home/paulie/Documents/MSR7/cpp-homeworks/homework_3/build/tests/homework_3_ci_test" "--gtest_filter=TestHTMLWriter.AddImageTestScoreBounds" "--gtest_also_run_disabled_tests" "--gtest_output=xml:/home/paulie/Documents/MSR7/cpp-homeworks/homework_3/build/TestHTMLWriter.AddImageTestScoreBounds.xml"
+Directory: /home/paulie/Documents/MSR7/cpp-homeworks/homework_3/build/tests
+"TestHTMLWriter.AddImageTestScoreBounds" start time: Nov 30 18:10 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/paulie/googletest/googletest/src/gtest_main.cc
+Note: Google Test filter = TestHTMLWriter.AddImageTestScoreBounds
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TestHTMLWriter
+[ RUN      ] TestHTMLWriter.AddImageTestScoreBounds
+[       OK ] TestHTMLWriter.AddImageTestScoreBounds (0 ms)
+[----------] 1 test from TestHTMLWriter (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"TestHTMLWriter.AddImageTestScoreBounds" end time: Nov 30 18:10 CET
+"TestHTMLWriter.AddImageTestScoreBounds" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/13 Testing: TestHTMLWriter.AddImageTestExtensionTypes
+13/13 Test: TestHTMLWriter.AddImageTestExtensionTypes
+Command: "/home/paulie/Documents/MSR7/cpp-homeworks/homework_3/build/tests/homework_3_ci_test" "--gtest_filter=TestHTMLWriter.AddImageTestExtensionTypes" "--gtest_also_run_disabled_tests" "--gtest_output=xml:/home/paulie/Documents/MSR7/cpp-homeworks/homework_3/build/TestHTMLWriter.AddImageTestExtensionTypes.xml"
+Directory: /home/paulie/Documents/MSR7/cpp-homeworks/homework_3/build/tests
+"TestHTMLWriter.AddImageTestExtensionTypes" start time: Nov 30 18:10 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/paulie/googletest/googletest/src/gtest_main.cc
+Note: Google Test filter = TestHTMLWriter.AddImageTestExtensionTypes
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TestHTMLWriter
+[ RUN      ] TestHTMLWriter.AddImageTestExtensionTypes
+[       OK ] TestHTMLWriter.AddImageTestExtensionTypes (0 ms)
+[----------] 1 test from TestHTMLWriter (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"TestHTMLWriter.AddImageTestExtensionTypes" end time: Nov 30 18:10 CET
+"TestHTMLWriter.AddImageTestExtensionTypes" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 30 18:10 CET

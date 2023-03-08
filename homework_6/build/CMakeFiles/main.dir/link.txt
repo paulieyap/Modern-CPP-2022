@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wall -Wextra -fPIC -rdynamic CMakeFiles/main.dir/src/main.cpp.o -o main  libhomework_6_lib.a 
